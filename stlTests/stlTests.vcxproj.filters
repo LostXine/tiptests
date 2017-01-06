@@ -24,6 +24,9 @@
     <ClCompile Include="test_prime_number.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="test_cpp_class.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stlcontrol.h">
