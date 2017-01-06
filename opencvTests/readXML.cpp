@@ -1,4 +1,4 @@
-#include "control.h"
+#include "ocvcontrol.h"
 
 #ifdef READ_XML
 #include <opencv2\opencv.hpp>

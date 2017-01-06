@@ -18,6 +18,12 @@
     <ClCompile Include="stl_vector_test.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="test_check_chessboard.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_prime_number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stlcontrol.h">

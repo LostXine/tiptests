@@ -11,7 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="test_prime_number.cpp" />
     <ClCompile Include="stl_vector_test.cpp" />
+    <ClCompile Include="test_check_chessboard.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stlcontrol.h" />

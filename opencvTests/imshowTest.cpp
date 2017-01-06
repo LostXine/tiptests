@@ -1,4 +1,4 @@
-#include "control.h"
+#include "ocvcontrol.h"
 
 #ifdef IMSHOW_TEST
 #include <opencv2\opencv.hpp>

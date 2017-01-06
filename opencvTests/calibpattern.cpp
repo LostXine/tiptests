@@ -1,4 +1,4 @@
-#include "control.h"
+#include "ocvcontrol.h"
 
 #ifdef CALIB_PATT
 #include <opencv2\opencv.hpp>

@@ -1,4 +1,4 @@
-#include "control.h"
+#include "ocvcontrol.h"
 
 #ifdef WRITE_XML
 
