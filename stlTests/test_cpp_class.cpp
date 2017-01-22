@@ -3,6 +3,7 @@
 #ifdef TEST_CPP_CLASS
 #include <iostream>
 #include <string>
+#include <Windows.h>
 
 using namespace std;
 
@@ -21,6 +22,9 @@ public:
 
 int main()
 {
+	cout << "Size of int:" << sizeof(int) << endl;
+	cout << "Size of HWND:" << sizeof(HWND) << endl;
+	//证明两个长度都是4，没毛病
 	Thing *t = new Thing;
 	Animal*x = new Animal;
 	Thing* array[2];
