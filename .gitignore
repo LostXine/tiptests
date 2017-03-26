@@ -1,0 +1,9 @@
+/Debug/*
+/Release/*
+/opencvTests/Debug/*
+/opencvTests/Release/*
+/stlTests/Debug/*
+/stlTests/Release/*
+*.sdf
+*.opensdf
+*.suo
