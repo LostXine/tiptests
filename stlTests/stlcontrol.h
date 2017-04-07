@@ -17,4 +17,11 @@
 如果父类析构函数是虚函数则先调用父类析构再调用子类析构。
 如果父类析构不是虚函数，那么只调用父类析构。*/
 
-#define TEST_CPP_STATIC
+//测试static顺序还有类的构造方法
+//#define TEST_CPP_STATIC
+
+//字符串中不连续回文子串的数量
+//#define SUB_PALINDROME
+
+//测试MAP
+#define STL_MAP_TEST

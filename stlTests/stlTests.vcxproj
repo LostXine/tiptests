@@ -11,11 +11,14 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="test_template.cpp" />
+    <ClCompile Include="sub-palindrome.cpp" />
     <ClCompile Include="test_cpp_class.cpp" />
     <ClCompile Include="test_cpp_static.cpp" />
     <ClCompile Include="test_prime_number.cpp" />
     <ClCompile Include="stl_vector_test.cpp" />
     <ClCompile Include="test_check_chessboard.cpp" />
+    <ClCompile Include="stl_map_test.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stlcontrol.h" />

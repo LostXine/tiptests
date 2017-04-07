@@ -8,7 +8,7 @@ from PIL import ImageGrab
 import itchat
 
 
-to_username = u'笔试笔试笔试'
+to_username = u'蒋剑斌'
 
 
 def save_and_send_img():
